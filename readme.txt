@@ -6,4 +6,3 @@ add remote repository.
 Creating a new branch is quick and simple.
 create dev
 create dev1
-test ssh
